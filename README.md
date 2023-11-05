@@ -1,1 +1,5 @@
-# 软件介绍：https://www.bilibili.com/video/BV1rr4y1X7S9/
+# 说明：
+
+让你的开始按钮远离鼠标
+
+下载软件请前往 https://github.com/yszyszysz233/TaskbarAl/releases/tag/TaskbarAl
